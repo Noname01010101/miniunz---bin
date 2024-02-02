@@ -1,0 +1,25 @@
+﻿  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  ioapi.c
+  iowin32.c
+  trees.c
+  uncompr.c
+  zutil.c
+  unzip.c
+  zip.c
+     Criando biblioteca x86\ZlibDllRelease\zlibwapi.lib e objeto x86\ZlibDllRelease\zlibwapi.exp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 271 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  zlibvc.vcxproj -> C:\Users\Pichau\Documents\Boldergarte\Softwares\LIBRARIES\downloads\zlib\zlib-develop\zlib-develop\contrib\vstudio\vc17\x86\ZlibDllRelease\zlibwapi.dll
